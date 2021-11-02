@@ -1,7 +1,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230A114E&title_bg=%23CB09AC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Software engineer 👋
-- Back-end Developer in media/e-commerce industy.
+#### 👋 Software engineer 
+- Back-end Developer
+
+#### 🔭 Biz. Domain
+- Media
+- eCommerce
+- Point (Mileage)
+
 <!--
 **minikuma/minikuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +22,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: wminikuma@gmail.com
-- 🌱 Tech. Stacks
+#### 📫 Contect
+- How to reach me: wminikuma@gmail.com
+- Blog: https://minikuma-laboratory.tistory.com/
 
+#### 🌱 Tech. Stacks
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
